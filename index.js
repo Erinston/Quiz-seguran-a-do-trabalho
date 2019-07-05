@@ -349,6 +349,8 @@ res.write('<h1> Desenvolvedores </h1>');
 
     res.write('<div id="d4"></div><p> Erinston ferreira da s. nascimento<br>eristong@gmail.com<br>(81)98557-2470</p>');
 
+    res.write('<div id="d5"></div> <p> Larissa Ferreira Lopes<br>Larissa.f.lopes@outlook.com<br><br>(81)98991-9290</p>');
+
 	res.write('<h2 ><a href="/" >voltar</a></h2>');
 res.write('</body>');
 
